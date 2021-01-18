@@ -1,1 +1,1 @@
-# rate-all application, README in progress
+# rate-all application, README in progress r
